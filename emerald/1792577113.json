@@ -1,17 +1,17 @@
 [
  {
-  "datetime": 1793128560,
+  "datetime": 1793206522,
   "type": "UNOFFICIAL",
   "version": "24.0",
   "files": [
    {
-    "filename": "lineage-24.0-clean-2.10-to-2.11-emerald-incremental-ota.zip",
+    "filename": "lineage-24.0-clean-2.12-emerald-signed-ota.zip",
     "os_patch_level": "2026-10-01",
     "os_sdk_level": 37,
-    "ota_property_files": "payload_metadata.bin:4581:476825,payload.bin:4581:637845506,payload_properties.txt:637850145:155,apex_info.pb:2396:1664,care_map.pb:4107:427,metadata:69:814,metadata.pb:951:1397",
-    "sha256": "1a1ef0251a1bd81a309a9ee6c969c79ef72f0bf68d76402522217f30ef53a8cf",
-    "size": 637853157,
-    "url": "https://github.com/RamDll/emerald-ota/releases/download/clean-2.11/lineage-24.0-clean-2.10-to-2.11-emerald-incremental-ota.zip"
+    "ota_property_files": "payload_metadata.bin:3789:151211,payload.bin:3789:1748106964,payload_properties.txt:1748110811:156,apex_info.pb:1820:1448,care_map.pb:3315:427,metadata:69:691,metadata.pb:828:944",
+    "sha256": "223b55dd255ad76e3cb2bd7d19e81e11cc4642e9b7491ed9beee883a5402bcfd",
+    "size": 1748113824,
+    "url": "https://github.com/RamDll/emerald-ota/releases/download/clean-2.12/lineage-24.0-clean-2.12-emerald-signed-ota.zip"
    }
   ]
  }
